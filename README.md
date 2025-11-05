@@ -1,6 +1,8 @@
-# After Tree Website
+# After Tree Dessert Cafe Website
 
-A beautiful, light-themed dessert cafe website built with React and Vite.
+A modern, responsive web application built with **React 18** and **Vite**, featuring smooth animations, interactive image galleries, and a mobile-first design. Showcases menu items, business information, and provides an elegant user experience optimized for performance.
+
+**Tech Stack:** React | Vite | Tailwind CSS | Framer Motion | JavaScript (ES6+)
 
 ## Getting Started
 
@@ -91,5 +93,3 @@ You can customize colors, content, and styles by editing:
 - `src/components/AfterTreeSite.jsx` - Main content
 - `tailwind.config.js` - Theme configuration
 - `src/index.css` - Global styles
-
-Enjoy your beautiful dessert cafe website! 🍰
